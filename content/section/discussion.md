@@ -7,7 +7,7 @@ Oftentimes, tacit information is trapped within emails, but using and
 together will capture this information forever. In addition, and have
 permissions to give flexibility to decide who can view and edit content.
 
-JIRA
+## JIRA
 ----
 
 Embracing JIRA two years ago enhanced productivity at the , but
@@ -60,7 +60,7 @@ duplicated or be related to other existing issues. Watching an issue
 notified the user when the issue is commented, status changed, closed,
 or updated.
 
-![Issue in JIRA Screenshot](Images/JIRAissuetracking.PNG)}
+![Issue in JIRA Screenshot](Images/JIRAissuetracking.png)}
 
 When the status of an issue is changed or closed the reporter will
 receive an email update. Time tracking in is accomplished by creating a

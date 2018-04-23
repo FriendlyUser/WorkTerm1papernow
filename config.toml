@@ -17,7 +17,7 @@ canonifyurls    = true
     id    = "David-li"
     name  = "David Li"
     email = "studentdavidli@gmail.com"
-    url   = "http://example.com/authors/1"
+    url   = "https://web.uvic.ca/~lidavid/"
     orcid = "0000-0002-9298-3168"
 
 

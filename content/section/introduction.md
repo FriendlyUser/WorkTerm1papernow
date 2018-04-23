@@ -11,6 +11,8 @@ technology management.\
 
 ![MOTI IMB Banner](Images/IMBBanner.jpg)
 
+{{< figure src="Images/IMBBanner.jpg" title="MOTI IMB Banner" attr="BC Government: MOTI IMB" caption="Figure 1: MOTI IMB Banner">}}
+
 The oversees and maintains over 100 applications for . Older
 applications usually are inconsistently documented and new staff
 confront difficulties obtaining working knowledge of systems. Creating a
